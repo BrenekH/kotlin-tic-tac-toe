@@ -1,4 +1,5 @@
 # Kotlin Tic-Tac-Toe
+
 A Tic-Tac-Toe Engine written in Kotlin for developers to create Tic-Tac-Toe bots.
 
 ## Developing a Bot
@@ -10,7 +11,7 @@ The periodic function must return an Int between 0 and 8 that isn't already used
 The game board indices work as follows:
 
  0 | 1 | 2
- 
+
 =====
 
  3 | 4 | 5
@@ -18,5 +19,3 @@ The game board indices work as follows:
 =====
 
  6 | 7 | 8
-
-
